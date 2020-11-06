@@ -1,5 +1,5 @@
 contextvars==2.4
-diagrams==0.16.0
+diagrams>=0.16.0,<1.0.0
 graphviz==0.13.2
 immutables==0.14
 Jinja2==2.11.2
